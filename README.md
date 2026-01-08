@@ -82,6 +82,8 @@ These datasets are integrated in the Silver layer using consistent business keys
 ## Sales Data Mart (Gold Layer)
 
 The Gold layer is modelled as a **star schema** optimised for analytics and BI reporting.
+<img width="631" height="361" alt="Schema" src="https://github.com/user-attachments/assets/74776f38-7d31-40a3-ae38-bd8732832265" />
+
 
 ### Fact Table
 
